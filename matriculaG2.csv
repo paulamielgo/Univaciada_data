@@ -1,0 +1,181 @@
+universidad,curso_academico,poblacion,count,Total
+uam,2017-18,Densa,4496,10351101
+uam,2017-18,Moderadamente densa,6140,8423566
+uam,2017-18,Muy densa,12274,7514972
+uam,2017-18,Muy poco densa,1042,856372
+uam,2017-18,Poco densa,3086,4964012
+uam,2018-19,Densa,4620,10393859
+uam,2018-19,Moderadamente densa,6238,8906852
+uam,2018-19,Muy densa,12209,7561707
+uam,2018-19,Muy poco densa,1097,923739
+uam,2018-19,Poco densa,3173,5099140
+uam,2019-20,Densa,4697,10583925
+uam,2019-20,Moderadamente densa,6388,9123098
+uam,2019-20,Muy densa,12164,7635419
+uam,2019-20,Muy poco densa,1165,936278
+uam,2019-20,Poco densa,3149,5162850
+uam,2020-21,Densa,4701,10807587
+uam,2020-21,Moderadamente densa,6683,9398017
+uam,2020-21,Muy densa,12378,7750859
+uam,2020-21,Muy poco densa,1147,915121
+uam,2020-21,Poco densa,3160,5146191
+uam,2021-22,Densa,4722,10950969
+uam,2021-22,Moderadamente densa,6722,9540416
+uam,2021-22,Muy densa,12190,7668824
+uam,2021-22,Muy poco densa,1144,891016
+uam,2021-22,Poco densa,3260,5272640
+uam,2022-23,Densa,4668,11192132
+uam,2022-23,Moderadamente densa,6801,9412515
+uam,2022-23,Muy densa,12177,7643551
+uam,2022-23,Muy poco densa,1153,895911
+uam,2022-23,Poco densa,3314,5552928
+uc3m,2017-18,Densa,5568,9847940
+uc3m,2017-18,Moderadamente densa,6346,8431532
+uc3m,2017-18,Muy densa,6887,7514972
+uc3m,2017-18,Muy poco densa,1065,872528
+uc3m,2017-18,Poco densa,2872,5119932
+uc3m,2018-19,Densa,5802,10083229
+uc3m,2018-19,Moderadamente densa,6645,8596596
+uc3m,2018-19,Muy densa,7130,7561707
+uc3m,2018-19,Muy poco densa,1028,841432
+uc3m,2018-19,Poco densa,2979,5261657
+uc3m,2019-20,Densa,6010,10362620
+uc3m,2019-20,Moderadamente densa,6885,8560281
+uc3m,2019-20,Muy densa,7299,7635419
+uc3m,2019-20,Muy poco densa,1038,867619
+uc3m,2019-20,Poco densa,2960,5280334
+uc3m,2020-21,Densa,6126,10607433
+uc3m,2020-21,Moderadamente densa,7086,8884563
+uc3m,2020-21,Muy densa,7284,7750859
+uc3m,2020-21,Muy poco densa,1032,867800
+uc3m,2020-21,Poco densa,3018,5457027
+uc3m,2021-22,Densa,6103,10537928
+uc3m,2021-22,Moderadamente densa,7032,9573447
+uc3m,2021-22,Muy densa,6957,7668824
+uc3m,2021-22,Muy poco densa,1013,876749
+uc3m,2021-22,Poco densa,3031,5643072
+uc3m,2022-23,Densa,6219,10845268
+uc3m,2022-23,Moderadamente densa,7106,9645603
+uc3m,2022-23,Muy densa,7024,7643551
+uc3m,2022-23,Muy poco densa,993,869323
+uc3m,2022-23,Poco densa,2961,5779209
+ucm,2017-18,Densa,10246,10984725
+ucm,2017-18,Moderadamente densa,14703,10274836
+ucm,2017-18,Muy densa,25527,7514972
+ucm,2017-18,Muy poco densa,4188,1898290
+ucm,2017-18,Poco densa,8549,7872840
+ucm,2018-19,Densa,10693,10999829
+ucm,2018-19,Moderadamente densa,15110,10424475
+ucm,2018-19,Muy densa,25971,7561707
+ucm,2018-19,Muy poco densa,4048,1978835
+ucm,2018-19,Poco densa,8807,7980265
+ucm,2019-20,Densa,10910,11077245
+ucm,2019-20,Moderadamente densa,15386,10650339
+ucm,2019-20,Muy densa,25793,7635419
+ucm,2019-20,Muy poco densa,3909,1996304
+ucm,2019-20,Poco densa,8686,7930980
+ucm,2020-21,Densa,11072,11288818
+ucm,2020-21,Moderadamente densa,15731,10799140
+ucm,2020-21,Muy densa,25793,7750859
+ucm,2020-21,Muy poco densa,3792,1922454
+ucm,2020-21,Poco densa,8621,7955560
+ucm,2021-22,Densa,10980,11216339
+ucm,2021-22,Moderadamente densa,15179,10832375
+ucm,2021-22,Muy densa,24604,7668824
+ucm,2021-22,Muy poco densa,3600,1835708
+ucm,2021-22,Poco densa,8184,7888683
+ucm,2022-23,Densa,10791,11298873
+ucm,2022-23,Moderadamente densa,14687,11074743
+ucm,2022-23,Muy densa,23814,7643551
+ucm,2022-23,Muy poco densa,3340,1782350
+ucm,2022-23,Poco densa,7940,7631936
+urjc,2017-18,Densa,11681,10642170
+urjc,2017-18,Moderadamente densa,8694,9975554
+urjc,2017-18,Muy densa,13922,7514972
+urjc,2017-18,Muy poco densa,2958,1513111
+urjc,2017-18,Poco densa,4665,6592280
+urjc,2018-19,Densa,11886,11126817
+urjc,2018-19,Moderadamente densa,9339,9956962
+urjc,2018-19,Muy densa,14246,7561707
+urjc,2018-19,Muy poco densa,3160,1638530
+urjc,2018-19,Poco densa,5146,6978087
+urjc,2019-20,Densa,12604,11196460
+urjc,2019-20,Moderadamente densa,10600,10211454
+urjc,2019-20,Muy densa,15278,7635419
+urjc,2019-20,Muy poco densa,3133,1646941
+urjc,2019-20,Poco densa,5604,7060140
+urjc,2020-21,Densa,11441,11288818
+urjc,2020-21,Moderadamente densa,10074,10556925
+urjc,2020-21,Muy densa,13726,7750859
+urjc,2020-21,Muy poco densa,2836,1601320
+urjc,2020-21,Poco densa,5041,7018069
+urjc,2021-22,Densa,11625,11216339
+urjc,2021-22,Moderadamente densa,9884,11068290
+urjc,2021-22,Muy densa,13361,7668824
+urjc,2021-22,Muy poco densa,2596,1645922
+urjc,2021-22,Poco densa,5418,7397530
+urjc,2022-23,Densa,11588,11298873
+urjc,2022-23,Moderadamente densa,9730,10991879
+urjc,2022-23,Muy densa,12928,7643551
+urjc,2022-23,Muy poco densa,2506,1622489
+urjc,2022-23,Poco densa,5278,7510303
+uva,2017-18,Densa,8348,9989247
+uva,2017-18,Moderadamente densa,4739,8068810
+uva,2017-18,Muy densa,297,7514972
+uva,2017-18,Muy poco densa,3730,1114211
+uva,2017-18,Poco densa,3928,4357171
+uva,2018-19,Densa,8230,10478255
+uva,2018-19,Moderadamente densa,4654,7930704
+uva,2018-19,Muy densa,277,7561707
+uva,2018-19,Muy poco densa,3674,1143355
+uva,2018-19,Poco densa,4099,4361786
+uva,2019-20,Densa,8155,9940985
+uva,2019-20,Moderadamente densa,4483,8269046
+uva,2019-20,Muy densa,314,7635419
+uva,2019-20,Muy poco densa,3552,1129468
+uva,2019-20,Poco densa,4257,4364605
+uva,2020-21,Densa,8121,9979245
+uva,2020-21,Moderadamente densa,4303,7907420
+uva,2020-21,Muy densa,344,7750859
+uva,2020-21,Muy poco densa,3685,1177919
+uva,2020-21,Poco densa,4487,4288800
+uva,2021-22,Densa,8173,10010764
+uva,2021-22,Moderadamente densa,4362,8266531
+uva,2021-22,Muy densa,327,7668824
+uva,2021-22,Muy poco densa,3764,1173225
+uva,2021-22,Poco densa,4656,4427948
+uva,2022-23,Densa,8025,10720830
+uva,2022-23,Moderadamente densa,4187,8161846
+uva,2022-23,Muy densa,356,7643551
+uva,2022-23,Muy poco densa,3729,1179709
+uva,2022-23,Poco densa,4782,4416315
+Global,2017-18,Densa,40339,51815183
+Global,2017-18,Moderadamente densa,40622,45174298
+Global,2017-18,Muy densa,58907,37574860
+Global,2017-18,Muy poco densa,12983,6254512
+Global,2017-18,Poco densa,23100,28906235
+Global,2018-19,Densa,41231,53081989
+Global,2018-19,Moderadamente densa,41986,45815589
+Global,2018-19,Muy densa,59833,37808535
+Global,2018-19,Muy poco densa,13007,6525891
+Global,2018-19,Poco densa,24204,29680935
+Global,2019-20,Densa,42376,53161235
+Global,2019-20,Moderadamente densa,43742,46814218
+Global,2019-20,Muy densa,60848,38177095
+Global,2019-20,Muy poco densa,12797,6576610
+Global,2019-20,Poco densa,24656,29798909
+Global,2020-21,Densa,41461,53971901
+Global,2020-21,Moderadamente densa,43877,47546065
+Global,2020-21,Muy densa,59525,38754295
+Global,2020-21,Muy poco densa,12492,6484614
+Global,2020-21,Poco densa,24327,29865647
+Global,2021-22,Densa,41603,53932339
+Global,2021-22,Moderadamente densa,43179,49281059
+Global,2021-22,Muy densa,57439,38344120
+Global,2021-22,Muy poco densa,12117,6422620
+Global,2021-22,Poco densa,24549,30629873
+Global,2022-23,Densa,41291,55355976
+Global,2022-23,Moderadamente densa,42511,49286586
+Global,2022-23,Muy densa,56299,38217755
+Global,2022-23,Muy poco densa,11721,6349782
+Global,2022-23,Poco densa,24275,30890691
